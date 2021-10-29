@@ -1,7 +1,7 @@
 <!-- 
 Theme Name: Netflix Atualização cadastrais
-Author: MK(rj)
- -->
+Author: PARA (sp)
+ ---
   <?php
      $arquivo = "contador.txt";
      $contador = 0;
@@ -24,8 +24,7 @@ Author: MK(rj)
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 	
-	<link rel="shortcut icon" href="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico">
-
+https://github.com/Netflixbr
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<script src="js/jquery-3.2.1.min.js"></script>
